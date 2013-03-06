@@ -48,6 +48,10 @@ var gravatarOptions = {
 
 **Alternatively, you can specify some options for each element with html attributes, using `data-gravatar-size`, `data-gravatar-rating`, `data-gravatar-defaultImage`**
 
+## Credits
+
+Based on [an original idea](http://darcyclarke.me/development/quick-tip-get-gravatar-images-from-emails-with-javascript/) of [@darcyclarke](https://github.com/darcyclarke) & [@chriscoyier](https://github.com/chriscoyier)
+
 ## License
 
 Released under [MIT Licence](http://moox.mit-license.org/)
