@@ -1,6 +1,6 @@
 # Gravatar Lazyload
 
-> Gravatar extensions allow you to (lazy) load some gravatars on your webpage without using `<img>`.
+> Gravatar script that allow you to (lazy) load some gravatars on your webpage without using `<img>`.
 
 _No javascript dependency. Less than 1Kb compressed + gzipped_
 
