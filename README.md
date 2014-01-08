@@ -55,7 +55,3 @@ Based on [an original idea](http://darcyclarke.me/development/quick-tip-get-grav
 ## License
 
 Released under [MIT Licence](http://moox.mit-license.org/)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/MoOx/gravatar-lazyload/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
